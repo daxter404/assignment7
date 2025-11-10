@@ -2,7 +2,7 @@
   "scripts": {
     "start": "ts-node src/server.ts",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint ./src"
   },
   "dependencies": {
     "@types/cors": "^2.8.19",
