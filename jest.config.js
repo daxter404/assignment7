@@ -1,3 +1,5 @@
+/* eslint-env node */
+
 // jest.config.js
 module.exports = {
   preset: 'ts-jest',
